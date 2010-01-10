@@ -1,11 +1,11 @@
 * DUI DEMO
 
-usign http://github.com/digg/stream  DEMO
+using http://github.com/digg/stream  DEMO
 
 e.g.
- plackup --app etc/DUI-Stream-DEMO.psgi --host lazy-programmer.com --port 12345 --s Coro
+ plackup --app etc/DUI-Stream-DEMO.psgi --host localhost --port 12345 --s Coro
 
- http://lazy-programmer.com:12345/index.html
+ http://localhost:12345/index.html
 
 SEE ALSO
 
