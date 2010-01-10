@@ -1,0 +1,14 @@
+* DUI DEMO
+
+usign http://github.com/digg/stream  DEMO
+
+e.g.
+ plackup --app etc/DUI-Stream-DEMO.psgi --host lazy-programmer.com --port 12345 --s Coro
+
+ http://lazy-programmer.com:12345/index.html
+
+SEE ALSO
+
+- http://yusukebe.com/archives/09/10/13/200232.html
+- PSGI::FAQ
+- http://en.wikipedia.org/wiki/MIME#Multipart_messages
